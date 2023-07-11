@@ -1,0 +1,15 @@
+G:\GeekBrains\home_work 06.07.2023\task_3\bin\Debug\net6.0\task_3.exe
+G:\GeekBrains\home_work 06.07.2023\task_3\bin\Debug\net6.0\task_3.deps.json
+G:\GeekBrains\home_work 06.07.2023\task_3\bin\Debug\net6.0\task_3.runtimeconfig.json
+G:\GeekBrains\home_work 06.07.2023\task_3\bin\Debug\net6.0\task_3.dll
+G:\GeekBrains\home_work 06.07.2023\task_3\bin\Debug\net6.0\task_3.pdb
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\task_3.csproj.AssemblyReference.cache
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\task_3.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\task_3.AssemblyInfoInputs.cache
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\task_3.AssemblyInfo.cs
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\task_3.csproj.CoreCompileInputs.cache
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\task_3.dll
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\refint\task_3.dll
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\task_3.pdb
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\task_3.genruntimeconfig.cache
+G:\GeekBrains\home_work 06.07.2023\task_3\obj\Debug\net6.0\ref\task_3.dll
